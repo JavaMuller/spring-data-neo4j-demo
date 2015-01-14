@@ -1,4 +1,4 @@
-package com.vlkan.springdataneo4jdemo;
+package com.vlkan.springdataneo4jdemo.config;
 
 import org.neo4j.graphdb.GraphDatabaseService;
 import org.neo4j.graphdb.factory.GraphDatabaseFactory;
